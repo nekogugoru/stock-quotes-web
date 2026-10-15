@@ -4,6 +4,7 @@
 - 美股、台股：Yahoo Finance chart API（台股上市 .TW、上櫃 .TWO，自動判斷）
 - 台股備援：證交所 STOCK_DAY_ALL、櫃買中心 mainboard quotes（Yahoo 抓不到時才用）
 - 匯率：Yahoo USDTWD=X
+- 配息：Yahoo 近一年除息紀錄（除息日、每股金額），寫入 data/dividends.json
 
 用法：python scripts/fetch_quotes.py
 持股清單讀 data/symbols.json：[{"mkt": "TW", "sym": "2330"}, {"mkt": "US", "sym": "NVDA"}, ...]
@@ -43,7 +44,7 @@ def num(v):
 
 def yahoo(symbol):
     """回傳最後一個交易日的 {date, open, high, low, close, prevClose, volume}，抓不到回傳 None。"""
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=10d&interval=1d"
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1y&interval=1d&events=div"
     try:
         res = get_json(url)["chart"]["result"][0]
     except Exception:  # noqa: BLE001
@@ -67,6 +68,11 @@ def yahoo(symbol):
     prev = rows[-2]["close"] if len(rows) > 1 else res.get("meta", {}).get("chartPreviousClose")
     out = {k: (round(v, 4) if isinstance(v, float) else v) for k, v in last.items()}
     out["prevClose"] = round(prev, 4) if prev is not None else None
+    divs = (res.get("events") or {}).get("dividends") or {}
+    out["_divs"] = sorted(
+        ({"exDate": datetime.fromtimestamp(int(d["date"]), tz).strftime("%Y-%m-%d"), "amount": round(float(d["amount"]), 6)}
+         for d in divs.values() if d.get("amount") is not None),
+        key=lambda x: x["exDate"])
     return out
 
 
@@ -109,6 +115,8 @@ def tpex_all():
 def main():
     symbols = json.loads((DATA / "symbols.json").read_text(encoding="utf-8"))
     old_path = DATA / "quotes.json"
+    div_path = DATA / "dividends.json"
+    dividends = json.loads(div_path.read_text(encoding="utf-8")) if div_path.exists() else {}
     quotes = json.loads(old_path.read_text(encoding="utf-8")) if old_path.exists() else {}
     now = datetime.now(TPE)
     fallback = None
@@ -131,6 +139,9 @@ def main():
                     got = {"date": now.strftime("%Y-%m-%d"), **fallback[s["sym"]]}
                     src = "TWSE/TPEx"
         if got:
+            divs = got.pop("_divs", None)
+            if divs:
+                dividends[key] = divs
             quotes[key] = {**quotes.get(key, {}), **got, "mkt": s["mkt"], "sym": s["sym"], "src": src,
                            "updatedAt": now.isoformat(timespec="seconds")}
             ok += 1
@@ -142,6 +153,7 @@ def main():
     if fx:
         (DATA / "fx.json").write_text(json.dumps({"USDTWD": round(fx["close"], 4), "date": fx["date"], "src": "Yahoo USDTWD=X"},
                                                  ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    div_path.write_text(json.dumps(dividends, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
     old_path.write_text(json.dumps(quotes, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
     print(f"更新 {ok} 檔，失敗 {len(miss)} 檔{'：' + ', '.join(miss) if miss else ''}；匯率 {fx['close'] if fx else '未更新'}")
     return 0 if ok else 1
