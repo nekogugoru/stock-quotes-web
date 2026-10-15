@@ -1,0 +1,418 @@
+{
+ "TW-0050": {
+  "close": 112.05,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "元大台灣50",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "0050"
+ },
+ "TW-006208": {
+  "close": 256.3,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "富邦台50",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "006208"
+ },
+ "TW-00713": {
+  "close": 63,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "元大台灣高息低波",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "00713"
+ },
+ "TW-00878": {
+  "close": 34.9,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "國泰永續高股息",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "00878"
+ },
+ "TW-00919": {
+  "close": 31.88,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "群益台灣精選高息",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "00919"
+ },
+ "TW-00923": {
+  "close": 41.51,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "群益台ESG低碳50",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "00923"
+ },
+ "TW-00927": {
+  "close": 39.89,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "群益半導體收益",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "00927"
+ },
+ "TW-00949": {
+  "close": 22.15,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "復華日本龍頭",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "00949"
+ },
+ "TW-1215": {
+  "close": 105,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "卜蜂",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "1215"
+ },
+ "TW-1802": {
+  "close": 59.9,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "台玻",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "1802"
+ },
+ "TW-1815": {
+  "close": 116,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "富喬",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "1815"
+ },
+ "TW-2328": {
+  "close": 47.55,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "廣宇",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "2328"
+ },
+ "TW-2330": {
+  "close": 2480,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "台積電",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "2330"
+ },
+ "TW-2368": {
+  "close": 1120,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "金像電",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "2368"
+ },
+ "TW-2454": {
+  "close": 4920,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "聯發科",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "2454"
+ },
+ "TW-2634": {
+  "close": 64,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "漢翔",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "2634"
+ },
+ "TW-3105": {
+  "close": 542,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "穩懋",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "3105"
+ },
+ "TW-3260": {
+  "close": 377.5,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "威剛",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "3260"
+ },
+ "TW-3491": {
+  "close": 1500,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "昇達科",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "3491"
+ },
+ "TW-3711": {
+  "close": 703,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "日月光投控",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "3711"
+ },
+ "TW-6166": {
+  "close": 133,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "凌華",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "6166"
+ },
+ "TW-6285": {
+  "close": 236,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "啟碁",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "6285"
+ },
+ "TW-6515": {
+  "close": 5930,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "穎崴",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "6515"
+ },
+ "TW-6664": {
+  "close": 376,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "群翊",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "6664"
+ },
+ "TW-8033": {
+  "close": 174.5,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "雷虎",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "8033"
+ },
+ "TW-9904": {
+  "close": 24.95,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "寶成",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "9904"
+ },
+ "TW-9910": {
+  "close": 68.8,
+  "date": "2026-09-30",
+  "mkt": "TW",
+  "name": "豐泰",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "9910"
+ },
+ "US-AAPL": {
+  "close": 342.96,
+  "date": "2026-10-14",
+  "mkt": "US",
+  "name": "Apple",
+  "src": "豐存股 App 市值換算",
+  "sym": "AAPL"
+ },
+ "US-ABBV": {
+  "close": 261.59,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "AbbVie",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "ABBV"
+ },
+ "US-AMD": {
+  "close": 570.78,
+  "date": "2026-10-14",
+  "mkt": "US",
+  "name": "AMD",
+  "src": "豐存股 App 市值換算",
+  "sym": "AMD"
+ },
+ "US-AVGO": {
+  "close": 351.19,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Broadcom",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "AVGO"
+ },
+ "US-AXP": {
+  "close": 304.1,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "American Express",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "AXP"
+ },
+ "US-BA": {
+  "close": 186.05,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Boeing",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "BA"
+ },
+ "US-BAC": {
+  "close": 51.39,
+  "date": "2026-10-14",
+  "mkt": "US",
+  "name": "Bank of America",
+  "src": "豐存股 App 市值換算",
+  "sym": "BAC"
+ },
+ "US-BTI": {
+  "close": 54.4,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "British American Tobacco ADR",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "BTI"
+ },
+ "US-CBRE": {
+  "close": 128.47,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "CBRE Group",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "CBRE"
+ },
+ "US-COST": {
+  "close": 910.34,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Costco",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "COST"
+ },
+ "US-GLW": {
+  "close": 153.76,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Corning",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "GLW"
+ },
+ "US-GOOGL": {
+  "close": 347.64,
+  "date": "2026-10-14",
+  "mkt": "US",
+  "name": "Alphabet A",
+  "src": "豐存股 App 市值換算",
+  "sym": "GOOGL"
+ },
+ "US-INTC": {
+  "close": 120.23,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Intel",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "INTC"
+ },
+ "US-MMM": {
+  "close": 164.46,
+  "date": "2026-10-14",
+  "mkt": "US",
+  "name": "3M",
+  "src": "豐存股 App 市值換算",
+  "sym": "MMM"
+ },
+ "US-MO": {
+  "close": 67.34,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Altria",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "MO"
+ },
+ "US-NMRA": {
+  "close": 0.596,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Neumora Therapeutics",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "NMRA"
+ },
+ "US-NVDA": {
+  "close": 221.3,
+  "date": "2026-10-14",
+  "mkt": "US",
+  "name": "NVIDIA",
+  "src": "豐存股 App 市值換算",
+  "sym": "NVDA"
+ },
+ "US-ONDS": {
+  "close": 7.33,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Ondas",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "ONDS"
+ },
+ "US-PFE": {
+  "close": 29.21,
+  "date": "2026-10-14",
+  "mkt": "US",
+  "name": "Pfizer",
+  "src": "豐存股 App 市值換算",
+  "sym": "PFE"
+ },
+ "US-QQQ": {
+  "close": 739.77,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Invesco QQQ",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "QQQ"
+ },
+ "US-QQQM": {
+  "close": 300.13,
+  "date": "2026-10-14",
+  "mkt": "US",
+  "name": "Invesco NASDAQ 100 ETF",
+  "src": "豐存股 App 市值換算",
+  "sym": "QQQM"
+ },
+ "US-RCAT": {
+  "close": 6.46,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Red Cat",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "RCAT"
+ },
+ "US-RTX": {
+  "close": 185.65,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "RTX",
+  "src": "永豐對帳單 9/30 參考價",
+  "sym": "RTX"
+ },
+ "US-WFC": {
+  "close": 80.05,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Wells Fargo",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "WFC"
+ },
+ "US-WM": {
+  "close": 203.92,
+  "date": "2026-09-30",
+  "mkt": "US",
+  "name": "Waste Management",
+  "src": "Firstrade 對帳單 9/30",
+  "sym": "WM"
+ }
+}

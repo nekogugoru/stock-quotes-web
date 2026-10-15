@@ -1,0 +1,210 @@
+[
+ {
+  "mkt": "TW",
+  "sym": "0050"
+ },
+ {
+  "mkt": "TW",
+  "sym": "006208"
+ },
+ {
+  "mkt": "TW",
+  "sym": "00713"
+ },
+ {
+  "mkt": "TW",
+  "sym": "00878"
+ },
+ {
+  "mkt": "TW",
+  "sym": "00919"
+ },
+ {
+  "mkt": "TW",
+  "sym": "00923"
+ },
+ {
+  "mkt": "TW",
+  "sym": "00927"
+ },
+ {
+  "mkt": "TW",
+  "sym": "00949"
+ },
+ {
+  "mkt": "TW",
+  "sym": "1215"
+ },
+ {
+  "mkt": "TW",
+  "sym": "1802"
+ },
+ {
+  "mkt": "TW",
+  "sym": "1815"
+ },
+ {
+  "mkt": "TW",
+  "sym": "2328"
+ },
+ {
+  "mkt": "TW",
+  "sym": "2330"
+ },
+ {
+  "mkt": "TW",
+  "sym": "2368"
+ },
+ {
+  "mkt": "TW",
+  "sym": "2454"
+ },
+ {
+  "mkt": "TW",
+  "sym": "2634"
+ },
+ {
+  "mkt": "TW",
+  "sym": "3105"
+ },
+ {
+  "mkt": "TW",
+  "sym": "3260"
+ },
+ {
+  "mkt": "TW",
+  "sym": "3491"
+ },
+ {
+  "mkt": "TW",
+  "sym": "3711"
+ },
+ {
+  "mkt": "TW",
+  "sym": "6166"
+ },
+ {
+  "mkt": "TW",
+  "sym": "6285"
+ },
+ {
+  "mkt": "TW",
+  "sym": "6515"
+ },
+ {
+  "mkt": "TW",
+  "sym": "6664"
+ },
+ {
+  "mkt": "TW",
+  "sym": "8033"
+ },
+ {
+  "mkt": "TW",
+  "sym": "9904"
+ },
+ {
+  "mkt": "TW",
+  "sym": "9910"
+ },
+ {
+  "mkt": "US",
+  "sym": "AAPL"
+ },
+ {
+  "mkt": "US",
+  "sym": "ABBV"
+ },
+ {
+  "mkt": "US",
+  "sym": "AMD"
+ },
+ {
+  "mkt": "US",
+  "sym": "AVGO"
+ },
+ {
+  "mkt": "US",
+  "sym": "AXP"
+ },
+ {
+  "mkt": "US",
+  "sym": "BA"
+ },
+ {
+  "mkt": "US",
+  "sym": "BAC"
+ },
+ {
+  "mkt": "US",
+  "sym": "BTI"
+ },
+ {
+  "mkt": "US",
+  "sym": "CBRE"
+ },
+ {
+  "mkt": "US",
+  "sym": "COST"
+ },
+ {
+  "mkt": "US",
+  "sym": "GLW"
+ },
+ {
+  "mkt": "US",
+  "sym": "GOOGL"
+ },
+ {
+  "mkt": "US",
+  "sym": "INTC"
+ },
+ {
+  "mkt": "US",
+  "sym": "MMM"
+ },
+ {
+  "mkt": "US",
+  "sym": "MO"
+ },
+ {
+  "mkt": "US",
+  "sym": "NMRA"
+ },
+ {
+  "mkt": "US",
+  "sym": "NVDA"
+ },
+ {
+  "mkt": "US",
+  "sym": "ONDS"
+ },
+ {
+  "mkt": "US",
+  "sym": "PFE"
+ },
+ {
+  "mkt": "US",
+  "sym": "QQQ"
+ },
+ {
+  "mkt": "US",
+  "sym": "QQQM"
+ },
+ {
+  "mkt": "US",
+  "sym": "RCAT"
+ },
+ {
+  "mkt": "US",
+  "sym": "RTX"
+ },
+ {
+  "mkt": "US",
+  "sym": "WFC"
+ },
+ {
+  "mkt": "US",
+  "sym": "WM"
+ }
+]
