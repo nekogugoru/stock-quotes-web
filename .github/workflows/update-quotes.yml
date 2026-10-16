@@ -35,5 +35,3 @@ jobs:
           git commit -m "報價更新 $(TZ=Asia/Taipei date +'%Y-%m-%d %H:%M')"
           git pull --rebase
           git push
-
-git pull --rebase
