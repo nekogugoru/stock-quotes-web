@@ -1,120 +1,120 @@
 {
  "TW-0050": {
-  "close": 100.95,
+  "close": 103.2,
   "date": "2026-11-11",
-  "high": 101.25,
+  "high": 103.25,
   "low": 99.8,
   "mkt": "TW",
   "name": "元大台灣50",
   "open": 101.0,
-  "prevClose": 97.45,
+  "prevClose": 99.7,
   "src": "Yahoo .TW",
   "sym": "0050",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 36453184
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 123488989
  },
  "TW-006208": {
-  "close": 231.4,
+  "close": 236.6,
   "date": "2026-11-11",
-  "high": 232.0,
+  "high": 236.6,
   "low": 229.0,
   "mkt": "TW",
   "name": "富邦台50",
   "open": 231.7,
-  "prevClose": 223.6,
+  "prevClose": 228.9,
   "src": "Yahoo .TW",
   "sym": "006208",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 759752
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 2980229
  },
  "TW-00713": {
-  "close": 62.05,
+  "close": 62.95,
   "date": "2026-11-11",
-  "high": 62.3,
+  "high": 63.0,
   "low": 61.7,
   "mkt": "TW",
   "name": "元大台灣高息低波",
   "open": 62.3,
-  "prevClose": 62.7,
+  "prevClose": 62.3,
   "src": "Yahoo .TW",
   "sym": "00713",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 1594986
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 5634708
  },
  "TW-00878": {
-  "close": 32.85,
+  "close": 33.5,
   "date": "2026-11-11",
-  "high": 33.21,
+  "high": 33.5,
   "low": 32.7,
   "mkt": "TW",
   "name": "國泰永續高股息",
   "open": 33.21,
-  "prevClose": 32.77,
+  "prevClose": 32.95,
   "src": "Yahoo .TW",
   "sym": "00878",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 24391768
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 69957082
  },
  "TW-00919": {
-  "close": 30.7,
+  "close": 31.22,
   "date": "2026-11-11",
-  "high": 30.96,
+  "high": 31.22,
   "low": 30.55,
   "mkt": "TW",
   "name": "群益台灣精選高息",
   "open": 30.95,
-  "prevClose": 30.98,
+  "prevClose": 30.9,
   "src": "Yahoo .TW",
   "sym": "00919",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 18499064
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 59756425
  },
  "TW-00923": {
-  "close": 36.28,
+  "close": 37.1,
   "date": "2026-11-11",
-  "high": 36.45,
+  "high": 37.1,
   "low": 35.96,
   "mkt": "TW",
   "name": "群益台ESG低碳50",
   "open": 36.45,
-  "prevClose": 35.05,
+  "prevClose": 35.97,
   "src": "Yahoo .TW",
   "sym": "00923",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 545192
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 2174602
  },
  "TW-00927": {
-  "close": 31.0,
+  "close": 31.69,
   "date": "2026-11-11",
-  "high": 31.28,
+  "high": 31.69,
   "low": 30.75,
   "mkt": "TW",
   "name": "群益半導體收益",
   "open": 31.15,
-  "prevClose": 30.2,
+  "prevClose": 30.87,
   "src": "Yahoo .TW",
   "sym": "00927",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 4802487
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 15871071
  },
  "TW-00949": {
-  "close": 22.72,
+  "close": 22.56,
   "date": "2026-11-11",
   "high": 22.77,
-  "low": 22.64,
+  "low": 22.54,
   "mkt": "TW",
   "name": "復華日本龍頭",
   "open": 22.77,
-  "prevClose": 22.25,
+  "prevClose": 22.59,
   "src": "Yahoo .TW",
   "sym": "00949",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 1455344
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 5918881
  },
  "TW-1215": {
-  "close": 104.0,
+  "close": 105.0,
   "date": "2026-11-11",
-  "high": 104.0,
+  "high": 105.0,
   "low": 103.0,
   "mkt": "TW",
   "name": "卜蜂",
@@ -122,13 +122,13 @@
   "prevClose": 103.5,
   "src": "Yahoo .TW",
   "sym": "1215",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 55367
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 394647
  },
  "TW-1802": {
-  "close": 75.7,
+  "close": 76.7,
   "date": "2026-11-11",
-  "high": 76.4,
+  "high": 76.7,
   "low": 70.2,
   "mkt": "TW",
   "name": "台玻",
@@ -136,13 +136,13 @@
   "prevClose": 69.8,
   "src": "Yahoo .TW",
   "sym": "1802",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 171335929
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 266673449
  },
  "TW-1815": {
-  "close": 137.5,
+  "close": 140.5,
   "date": "2026-11-11",
-  "high": 139.0,
+  "high": 140.5,
   "low": 131.0,
   "mkt": "TW",
   "name": "富喬",
@@ -150,27 +150,27 @@
   "prevClose": 128.0,
   "src": "Yahoo .TWO",
   "sym": "1815",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 68632349
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 122237092
  },
  "TW-2328": {
-  "close": 46.6,
+  "close": 47.4,
   "date": "2026-11-11",
   "high": 47.9,
-  "low": 46.3,
+  "low": 46.05,
   "mkt": "TW",
   "name": "廣宇",
   "open": 47.9,
   "prevClose": 46.95,
   "src": "Yahoo .TW",
   "sym": "2328",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 816951
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 2574752
  },
  "TW-2330": {
-  "close": 2330.0,
+  "close": 2395.0,
   "date": "2026-11-11",
-  "high": 2335.0,
+  "high": 2395.0,
   "low": 2305.0,
   "mkt": "TW",
   "name": "台積電",
@@ -178,13 +178,13 @@
   "prevClose": 2285.0,
   "src": "Yahoo .TW",
   "sym": "2330",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 8853117
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 32897705
  },
  "TW-2368": {
-  "close": 1020.0,
+  "close": 1050.0,
   "date": "2026-11-11",
-  "high": 1050.0,
+  "high": 1080.0,
   "low": 1000.0,
   "mkt": "TW",
   "name": "金像電",
@@ -192,13 +192,13 @@
   "prevClose": 983.0,
   "src": "Yahoo .TW",
   "sym": "2368",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 5372909
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 14064294
  },
  "TW-2454": {
-  "close": 3845.0,
+  "close": 3990.0,
   "date": "2026-11-11",
-  "high": 3920.0,
+  "high": 3990.0,
   "low": 3780.0,
   "mkt": "TW",
   "name": "聯發科",
@@ -206,11 +206,11 @@
   "prevClose": 3830.0,
   "src": "Yahoo .TW",
   "sym": "2454",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 3207340
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 10579394
  },
  "TW-2634": {
-  "close": 53.9,
+  "close": 54.6,
   "date": "2026-11-11",
   "high": 54.6,
   "low": 53.2,
@@ -220,13 +220,13 @@
   "prevClose": 54.6,
   "src": "Yahoo .TW",
   "sym": "2634",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 983060
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 3066168
  },
  "TW-3105": {
-  "close": 481.5,
+  "close": 521.0,
   "date": "2026-11-11",
-  "high": 494.0,
+  "high": 525.0,
   "low": 473.5,
   "mkt": "TW",
   "name": "穩懋",
@@ -234,11 +234,11 @@
   "prevClose": 484.5,
   "src": "Yahoo .TWO",
   "sym": "3105",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 8344739
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 31276710
  },
  "TW-3260": {
-  "close": 297.5,
+  "close": 304.0,
   "date": "2026-11-11",
   "high": 305.0,
   "low": 295.0,
@@ -248,13 +248,13 @@
   "prevClose": 304.5,
   "src": "Yahoo .TWO",
   "sym": "3260",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 1878485
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 4569409
  },
  "TW-3491": {
-  "close": 1345.0,
+  "close": 1435.0,
   "date": "2026-11-11",
-  "high": 1385.0,
+  "high": 1435.0,
   "low": 1325.0,
   "mkt": "TW",
   "name": "昇達科",
@@ -262,27 +262,27 @@
   "prevClose": 1305.0,
   "src": "Yahoo .TWO",
   "sym": "3491",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 458599
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 1941126
  },
  "TW-3711": {
-  "close": 602.0,
+  "close": 617.0,
   "date": "2026-11-11",
   "high": 620.0,
-  "low": 597.0,
+  "low": 596.0,
   "mkt": "TW",
   "name": "日月光投控",
   "open": 605.0,
   "prevClose": 605.0,
   "src": "Yahoo .TW",
   "sym": "3711",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 6606658
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 19388615
  },
  "TW-6166": {
-  "close": 91.3,
+  "close": 93.4,
   "date": "2026-11-11",
-  "high": 92.9,
+  "high": 93.5,
   "low": 90.6,
   "mkt": "TW",
   "name": "凌華",
@@ -290,27 +290,27 @@
   "prevClose": 90.9,
   "src": "Yahoo .TW",
   "sym": "6166",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 297759
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 850524
  },
  "TW-6285": {
-  "close": 190.5,
+  "close": 194.5,
   "date": "2026-11-11",
   "high": 195.5,
-  "low": 189.0,
+  "low": 188.5,
   "mkt": "TW",
   "name": "啟碁",
   "open": 191.5,
   "prevClose": 191.5,
   "src": "Yahoo .TW",
   "sym": "6285",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 1906205
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 7394085
  },
  "TW-6515": {
-  "close": 4035.0,
+  "close": 4090.0,
   "date": "2026-11-11",
-  "high": 4035.0,
+  "high": 4090.0,
   "low": 3750.0,
   "mkt": "TW",
   "name": "穎崴",
@@ -318,27 +318,27 @@
   "prevClose": 3720.0,
   "src": "Yahoo .TW",
   "sym": "6515",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 280158
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 572943
  },
  "TW-6664": {
-  "close": 287.0,
+  "close": 291.5,
   "date": "2026-11-11",
-  "high": 291.0,
-  "low": 284.0,
+  "high": 291.5,
+  "low": 283.0,
   "mkt": "TW",
   "name": "群翊",
   "open": 288.5,
   "prevClose": 286.0,
   "src": "Yahoo .TWO",
   "sym": "6664",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 20141
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 101673
  },
  "TW-8033": {
-  "close": 139.5,
+  "close": 143.0,
   "date": "2026-11-11",
-  "high": 140.5,
+  "high": 143.0,
   "low": 137.5,
   "mkt": "TW",
   "name": "雷虎",
@@ -346,11 +346,11 @@
   "prevClose": 140.0,
   "src": "Yahoo .TW",
   "sym": "8033",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 304851
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 1118143
  },
  "TW-9904": {
-  "close": 25.6,
+  "close": 25.85,
   "date": "2026-11-11",
   "high": 25.9,
   "low": 25.45,
@@ -360,22 +360,22 @@
   "prevClose": 26.0,
   "src": "Yahoo .TW",
   "sym": "9904",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 3425767
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 11659799
  },
  "TW-9910": {
-  "close": 66.9,
+  "close": 67.0,
   "date": "2026-11-11",
   "high": 68.0,
-  "low": 66.7,
+  "low": 66.6,
   "mkt": "TW",
   "name": "豐泰",
   "open": 67.6,
   "prevClose": 67.8,
   "src": "Yahoo .TW",
   "sym": "9910",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 526556
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 1886107
  },
  "US-AAPL": {
   "close": 348.51,
@@ -388,22 +388,22 @@
   "prevClose": 350.69,
   "src": "Yahoo",
   "sym": "AAPL",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 29718200
  },
  "US-ABBV": {
-  "close": 293.3,
-  "date": "2026-11-09",
-  "high": 294.57,
-  "low": 289.59,
+  "close": 293.89,
+  "date": "2026-11-10",
+  "high": 294.5,
+  "low": 291.04,
   "mkt": "US",
   "name": "AbbVie",
-  "open": 293.84,
-  "prevClose": 291.31,
+  "open": 292.5,
+  "prevClose": 293.3,
   "src": "Yahoo",
   "sym": "ABBV",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 5865800
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 3520100
  },
  "US-AMD": {
   "close": 515.21,
@@ -416,7 +416,7 @@
   "prevClose": 508.58,
   "src": "Yahoo",
   "sym": "AMD",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 46907700
  },
  "US-AVGO": {
@@ -430,7 +430,7 @@
   "prevClose": 319.48,
   "src": "Yahoo",
   "sym": "AVGO",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 28278900
  },
  "US-AXP": {
@@ -444,7 +444,7 @@
   "prevClose": 324.31,
   "src": "Yahoo",
   "sym": "AXP",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 2414100
  },
  "US-BA": {
@@ -458,7 +458,7 @@
   "prevClose": 172.38,
   "src": "Yahoo",
   "sym": "BA",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 6213700
  },
  "US-BAC": {
@@ -472,7 +472,7 @@
   "prevClose": 50.55,
   "src": "Yahoo",
   "sym": "BAC",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 22762900
  },
  "US-BTI": {
@@ -486,7 +486,7 @@
   "prevClose": 60.09,
   "src": "Yahoo",
   "sym": "BTI",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 2781400
  },
  "US-CBRE": {
@@ -500,7 +500,7 @@
   "prevClose": 138.17,
   "src": "Yahoo",
   "sym": "CBRE",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 2207100
  },
  "US-COST": {
@@ -514,7 +514,7 @@
   "prevClose": 1066.1801,
   "src": "Yahoo",
   "sym": "COST",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 1555400
  },
  "US-GLW": {
@@ -528,7 +528,7 @@
   "prevClose": 115.95,
   "src": "Yahoo",
   "sym": "GLW",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 7466700
  },
  "US-GOOGL": {
@@ -542,7 +542,7 @@
   "prevClose": 288.15,
   "src": "Yahoo",
   "sym": "GOOGL",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 28292300
  },
  "US-INTC": {
@@ -556,7 +556,7 @@
   "prevClose": 59.37,
   "src": "Yahoo",
   "sym": "INTC",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 100389700
  },
  "US-MMM": {
@@ -570,7 +570,7 @@
   "prevClose": 188.63,
   "src": "Yahoo",
   "sym": "MMM",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 3057700
  },
  "US-MO": {
@@ -584,22 +584,22 @@
   "prevClose": 75.81,
   "src": "Yahoo",
   "sym": "MO",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 6452600
  },
  "US-NMRA": {
-  "close": 0.486,
-  "date": "2026-11-09",
-  "high": 0.555,
-  "low": 0.476,
+  "close": 0.467,
+  "date": "2026-11-10",
+  "high": 0.49,
+  "low": 0.452,
   "mkt": "US",
   "name": "Neumora Therapeutics",
-  "open": 0.535,
-  "prevClose": 0.503,
+  "open": 0.48,
+  "prevClose": 0.486,
   "src": "Yahoo",
   "sym": "NMRA",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 755800
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 752500
  },
  "US-NVDA": {
   "close": 168.89,
@@ -612,22 +612,22 @@
   "prevClose": 178.67,
   "src": "Yahoo",
   "sym": "NVDA",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 426599700
  },
  "US-ONDS": {
-  "close": 5.97,
-  "date": "2026-11-09",
-  "high": 6.125,
-  "low": 5.37,
+  "close": 5.57,
+  "date": "2026-11-10",
+  "high": 5.915,
+  "low": 5.45,
   "mkt": "US",
   "name": "Ondas",
-  "open": 5.45,
-  "prevClose": 5.335,
+  "open": 5.84,
+  "prevClose": 5.97,
   "src": "Yahoo",
   "sym": "ONDS",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 47795000
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 40929900
  },
  "US-PFE": {
   "close": 29.36,
@@ -640,7 +640,7 @@
   "prevClose": 29.23,
   "src": "Yahoo",
   "sym": "PFE",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 31121000
  },
  "US-QQQ": {
@@ -654,36 +654,36 @@
   "prevClose": 679.35,
   "src": "Yahoo",
   "sym": "QQQ",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 38503500
  },
  "US-QQQM": {
-  "close": 279.52,
-  "date": "2026-11-09",
-  "high": 280.7,
-  "low": 272.65,
+  "close": 277.87,
+  "date": "2026-11-10",
+  "high": 280.37,
+  "low": 274.68,
   "mkt": "US",
   "name": "Invesco NASDAQ 100 ETF",
-  "open": 272.875,
-  "prevClose": 270.22,
+  "open": 276.94,
+  "prevClose": 279.52,
   "src": "Yahoo",
   "sym": "QQQM",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 4910800
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 3430400
  },
  "US-RCAT": {
-  "close": 4.5,
-  "date": "2026-11-09",
-  "high": 4.535,
-  "low": 3.95,
+  "close": 4.21,
+  "date": "2026-11-10",
+  "high": 4.415,
+  "low": 4.085,
   "mkt": "US",
   "name": "Red Cat",
-  "open": 4.04,
-  "prevClose": 4.04,
+  "open": 4.37,
+  "prevClose": 4.5,
   "src": "Yahoo",
   "sym": "RCAT",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
-  "volume": 7713400
+  "updatedAt": "2026-11-11T22:27:47+08:00",
+  "volume": 4545100
  },
  "US-RTX": {
   "close": 200.27,
@@ -696,7 +696,7 @@
   "prevClose": 196.31,
   "src": "Yahoo",
   "sym": "RTX",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 4736300
  },
  "US-WFC": {
@@ -710,7 +710,7 @@
   "prevClose": 85.49,
   "src": "Yahoo",
   "sym": "WFC",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 10449400
  },
  "US-WM": {
@@ -724,7 +724,7 @@
   "prevClose": 236.61,
   "src": "Yahoo",
   "sym": "WM",
-  "updatedAt": "2026-11-11T09:57:45+08:00",
+  "updatedAt": "2026-11-11T22:27:47+08:00",
   "volume": 1392700
  }
 }
